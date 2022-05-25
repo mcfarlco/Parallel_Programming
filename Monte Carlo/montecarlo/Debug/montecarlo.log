@@ -1,0 +1,6 @@
+﻿  montecarlo.cpp
+C:\Users\corey\github\CS475\Project_1\montecarlo\montecarlo.cpp(43,27): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\corey\github\CS475\Project_1\montecarlo\montecarlo.cpp(106,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\corey\github\CS475\Project_1\montecarlo\montecarlo.cpp(107,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\corey\github\CS475\Project_1\montecarlo\montecarlo.cpp(155,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  montecarlo.vcxproj -> C:\Users\corey\github\CS475\Project_1\montecarlo\Debug\montecarlo.exe

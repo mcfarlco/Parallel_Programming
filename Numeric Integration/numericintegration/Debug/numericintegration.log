@@ -1,0 +1,12 @@
+﻿  numericintegration.cpp
+C:\Users\corey\github\CS475\Project_2\numericintegration\numericintegration.cpp(53,10): warning C4849: OpenMP 'collapse' clause ignored in 'parallel for' directive
+C:\Users\corey\github\CS475\Project_2\numericintegration\numericintegration.cpp(60,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\corey\github\CS475\Project_2\numericintegration\numericintegration.cpp(64,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\corey\github\CS475\Project_2\numericintegration\numericintegration.cpp(67,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\corey\github\CS475\Project_2\numericintegration\numericintegration.cpp(84,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\corey\github\CS475\Project_2\numericintegration\numericintegration.cpp(85,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\corey\github\CS475\Project_2\numericintegration\numericintegration.cpp(87,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\corey\github\CS475\Project_2\numericintegration\numericintegration.cpp(88,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\corey\github\CS475\Project_2\numericintegration\numericintegration.cpp(89,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\corey\github\CS475\Project_2\numericintegration\numericintegration.cpp(93,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  numericintegration.vcxproj -> C:\Users\corey\github\CS475\Project_2\numericintegration\Debug\numericintegration.exe

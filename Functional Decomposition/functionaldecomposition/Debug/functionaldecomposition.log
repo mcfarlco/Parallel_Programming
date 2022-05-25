@@ -1,0 +1,11 @@
+﻿  functionaldecomposition.cpp
+C:\Users\corey\github\CS475\Project_3\functionaldecomposition\functionaldecomposition.cpp(108,63): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\corey\github\CS475\Project_3\functionaldecomposition\functionaldecomposition.cpp(125,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\corey\github\CS475\Project_3\functionaldecomposition\functionaldecomposition.cpp(125,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\corey\github\CS475\Project_3\functionaldecomposition\functionaldecomposition.cpp(126,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\corey\github\CS475\Project_3\functionaldecomposition\functionaldecomposition.cpp(126,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\corey\github\CS475\Project_3\functionaldecomposition\functionaldecomposition.cpp(183,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\corey\github\CS475\Project_3\functionaldecomposition\functionaldecomposition.cpp(184,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\corey\github\CS475\Project_3\functionaldecomposition\functionaldecomposition.cpp(186,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\corey\github\CS475\Project_3\functionaldecomposition\functionaldecomposition.cpp(207,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  functionaldecomposition.vcxproj -> C:\Users\corey\github\CS475\Project_3\functionaldecomposition\Debug\functionaldecomposition.exe
