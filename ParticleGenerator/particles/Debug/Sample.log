@@ -1,0 +1,4 @@
+﻿  sample.cpp
+C:\Users\corey\github\CS475\Project_6\particles\sample.cpp(883,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\corey\github\CS475\Project_6\particles\Debug\Sample.exe

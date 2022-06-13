@@ -1,0 +1,3 @@
+C:\MJB\CS575\First\Debug\First.exe
+C:\MJB\CS575\First\Debug\First.pdb
+C:\Users\corey\github\CS475\Project_6\openclmulti\Debug\openclmulti.exe
